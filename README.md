@@ -6,10 +6,10 @@
 
 A working mumbo clock for your desktop. Made with Rainmeter. 
 
-* [Download version 1.0](https://github.com/stshrewsburyDev/Mumbo-clock-rainmeter/releases/Mumbo-clock_1.0.rmskin)
+* [Download version 1.0](https://github.com/stshrewsburyDev/Mumbo-clock-rainmeter/blob/master/releases/Mumbo-clock_1.0.rmskin?raw=true)
 * [Download Rainmeter](https://www.rainmeter.net/)
 * [View on DeviantArt](https://www.deviantart.com/stshrewsburydev/art/Mumbo-clock-1-0-834120680)
-* [Some premade themes](https://github.com/stshrewsburyDev/Mumbo-clock-rainmeter/themes.md)
+* [Some premade themes](https://github.com/stshrewsburyDev/Mumbo-clock-rainmeter/blob/master/themes.md)
 
 
 ## Credits
