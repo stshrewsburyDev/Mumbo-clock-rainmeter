@@ -26,7 +26,7 @@ function Initialize()
     night_hours_active = false
   end
 
-  print('Mumbo clock loaded in and is now running! Version: 1.0')
+  print('Mumbo clock loaded in and is now running! Version: 1.1')
 end
 
 function Update()

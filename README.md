@@ -4,16 +4,20 @@
 ## Created by Steven Shrewsbury (stshrewsburyDev)
 [![VersionBadge](https://img.shields.io/badge/Version-1.0-3E0000.svg)](https://shields.io/)
 
-A working mumbo clock for your desktop. Made with Rainmeter. 
+A working mumbo clock for your desktop. Made with Rainmeter.
 
-* [Download version 1.0](https://github.com/stshrewsburyDev/Mumbo-clock-rainmeter/blob/master/releases/Mumbo-clock_1.0.rmskin?raw=true)
+## Links:
+* [Download version 1.1](https://github.com/stshrewsburyDev/Mumbo-clock-rainmeter/blob/master/releases/Mumbo-clock_1.1.rmskin?raw=true)
 * [Download Rainmeter](https://www.rainmeter.net/)
 * [View on DeviantArt](https://www.deviantart.com/stshrewsburydev/art/Mumbo-clock-1-0-834120680)
 * [Some premade themes](https://github.com/stshrewsburyDev/Mumbo-clock-rainmeter/blob/master/themes.md)
 
-
-## Credits
+## Credits:
 * [ElyBeatMaker (Assets and ideas)](https://twitter.com/elybeatmaker/)
 * [Enrico (Contributor)](https://twitter.com/leone2503)
 * [Mumbo Jumbo (Original spark for the entire Mumbo clock)](https://twitter.com/ThatMumboJumbo)
 * [stshrewsburyDev (Developer of this project)](https://twitter.com/stshrewsburyDev)
+
+## Changelogs:
+* Changed clock hands hierarchy so hour hand appears over the minute hand.
+* Added the LICENSE file to the package files.
