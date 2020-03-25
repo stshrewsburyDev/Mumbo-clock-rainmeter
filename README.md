@@ -2,7 +2,7 @@
 
 # Mumbo-clock-rainmeter
 ## Created by Steven Shrewsbury (stshrewsburyDev)
-[![VersionBadge](https://img.shields.io/badge/Version-1.0-3E0000.svg)](https://shields.io/)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/stshrewsburyDev/Mumbo-clock-rainmeter)
 
 A working mumbo clock for your desktop. Made with Rainmeter.
 
